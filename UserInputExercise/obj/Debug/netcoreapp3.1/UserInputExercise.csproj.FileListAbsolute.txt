@@ -1,0 +1,13 @@
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\obj\Debug\netcoreapp3.1\UserInputExercise.csprojAssemblyReference.cache
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\obj\Debug\netcoreapp3.1\UserInputExercise.AssemblyInfoInputs.cache
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\obj\Debug\netcoreapp3.1\UserInputExercise.AssemblyInfo.cs
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\obj\Debug\netcoreapp3.1\UserInputExercise.csproj.CoreCompileInputs.cache
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\bin\Debug\netcoreapp3.1\UserInputExercise.exe
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\bin\Debug\netcoreapp3.1\UserInputExercise.deps.json
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\bin\Debug\netcoreapp3.1\UserInputExercise.runtimeconfig.json
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\bin\Debug\netcoreapp3.1\UserInputExercise.runtimeconfig.dev.json
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\bin\Debug\netcoreapp3.1\UserInputExercise.dll
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\bin\Debug\netcoreapp3.1\UserInputExercise.pdb
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\obj\Debug\netcoreapp3.1\UserInputExercise.dll
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\obj\Debug\netcoreapp3.1\UserInputExercise.pdb
+E:\GrandCircus\C#\UserInputExercise\UserInputExercise\obj\Debug\netcoreapp3.1\UserInputExercise.genruntimeconfig.cache
