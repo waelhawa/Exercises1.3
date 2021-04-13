@@ -17,15 +17,15 @@ namespace UserInputExercise
                     {
                     case "1":
                     case "13":
-                        exercise13();
+                        Exercise13();
                         break;
                     case "2":
                     case "14":
-                        exercise14();
+                        Exercise14();
                         break;
                     case "3":
                     case "15":
-                        exercise15();
+                        Exercise15();
                         break;
                     case "4":
                     case "exit":
@@ -39,64 +39,64 @@ namespace UserInputExercise
                 }
             } //end main
 
-        static void exercise13()
+        static void Exercise13()
             {
             bool checker = true;
             int number;
             Console.WriteLine("This is an exercise to output all numbers from the number entered to 0.");
             while (checker)
                 {
-                number = numberEntry();
+                number = NumberEntry();
                 for (int i = number; i >= 0; i--)
                     {
                     Console.Write($"{i} ");
                     }
                 Console.WriteLine();
-                checker = continueEntry();
+                checker = ContinueEntry();
                 }
             Console.WriteLine("\nThank you for checking Exercise 13.\n");
 
             } //end exercise 13
 
-        static void exercise14()
+        static void Exercise14()
             {
             bool checker = true;
             int number;
             Console.WriteLine("This is an exercise to output all numbers squared from 1 to the number entered.");
             while (checker)
                 {
-                number = numberEntry();
+                number = NumberEntry();
                 for (int i = 1; i <= number; i++)
                     {
                     Console.Write($"{i * i} ");
                     }
                 Console.WriteLine();
-                checker = continueEntry();
+                checker = ContinueEntry();
                 }
             Console.WriteLine("\nThank you for checking Exercise 14.\n");
 
             } //end exercise 14
 
-        static void exercise15()
+        static void Exercise15()
             {
             bool checker = true;
             int number;
             Console.WriteLine("This is an exercise to output all numbers cubed from 1 to the number entered.");
             while (checker)
                 {
-                number = numberEntry();
+                number = NumberEntry();
                 for (int i = 1; i <= number; i++)
                     {
                     Console.Write($"{i * i * i} ");
                     }
                 Console.WriteLine();
-                checker = continueEntry();
+                checker = ContinueEntry();
                 }
             Console.WriteLine("\nThank you for checking Exercise 15.\n");
 
             } //end exercise 15
 
-        static int numberEntry()
+        static int NumberEntry()
             {
             string text;
             int number;
@@ -115,7 +115,7 @@ namespace UserInputExercise
                 }
             } //end numberEntry
 
-        static bool continueEntry()
+        static bool ContinueEntry()
             {
             string text;
             while (true)
